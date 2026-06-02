@@ -1,0 +1,43 @@
+1) Brute Force Approach
+
+Idea:
+Rotate the first string one position at a time and compare it with the second string after each rotation. If at any point both strings become equal, then they are rotations of each other.
+
+Time Complexity: O(n²)
+Space Complexity: O(1)
+class Solution {
+public:
+    bool areRotations(string &s1, string &s2) {
+        if (s1.size() != s2.size()) return false;
+
+        string temp = s1;
+
+        for (int i = 0; i < s1.size(); i++) {
+            rotate(temp.begin(), temp.begin() + 1, temp.end());
+
+            if (temp == s2)
+                return true;
+        }
+
+        return false;
+    }
+};
+
+2) Optimized Approach (String Concatenation + find())
+
+Idea:
+If two strings are rotations of each other, then the second string will always exist as a substring inside the concatenation of the first string with itself (`s1 + s1`). Use `find()` to check whether `s2` exists in the concatenated string.
+
+Time Complexity: O(n)
+Space Complexity: O(n)
+
+class Solution {
+public:
+    bool rotateString(string s, string goal) {
+        if(s.size() != goal.size()) return false;
+
+        string temp = s + s;
+
+        return temp.find(goal) != string::npos;
+    }
+};
