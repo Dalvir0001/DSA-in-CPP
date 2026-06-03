@@ -1,0 +1,61 @@
+## Beauty Sum of All Substrings
+
+### Approach
+
+For every substring, maintain a frequency array of size 26 to store character counts. While expanding the substring, update the frequency of the current character and compute the maximum and minimum non-zero frequencies.
+
+The beauty of a substring is:
+
+**Beauty = Maximum Frequency − Minimum Frequency**
+
+Instead of recalculating frequencies for each substring from scratch, we update them incrementally, which improves efficiency.
+
+### Algorithm
+
+1. Iterate through each starting index of the substring.
+2. Maintain a frequency array of size 26.
+3. Expand the substring one character at a time.
+4. Find the maximum and minimum non-zero frequencies.
+5. Add `(maxi - mini)` to the final answer.
+
+### Time Complexity
+
+* **O(n² × 26)** ≈ **O(n²)**
+
+### Space Complexity
+
+* **O(26)** ≈ **O(1)**
+
+### Why this approach?
+
+Since there are `O(n²)` substrings, checking all substrings is unavoidable. Using a fixed-size frequency array makes frequency computation efficient and optimal for interview and coding platform constraints.
+
+Code:-
+
+class Solution {
+public:
+    int beautySum(string s) {
+        int n=s.size();
+        int ans=0;
+        for(int i=0 ; i<n ; i++)
+        {
+            vector<int> temp(26,0);
+            for(int j=i ; j<n ; j++)
+            {
+                temp[s[j]-'a']++;
+                int mini=INT_MAX;
+                int maxi=0;
+                for(int k=0 ; k<26 ; k++)
+                {
+                    if(temp[k]>0)
+                    {
+                        maxi=max(maxi,temp[k]);
+                        mini=min(mini,temp[k]);
+                    }
+                }
+            ans+=(maxi-mini);
+            }
+        }
+        return ans;
+    }
+};
