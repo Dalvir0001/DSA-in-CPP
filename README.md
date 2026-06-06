@@ -12,6 +12,7 @@ My DSA journey in C++ for placements. Uploading important problems, optimized so
 - String To Integer (atoi)
 - Sum of Beauty of All Substrings
 - Valid Number
+- Sort Characters By Frequency
 
 ## 🎯 Goals
 - Master Data Structures and Algorithms
