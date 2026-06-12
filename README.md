@@ -2,6 +2,20 @@
 My DSA journey in C++ for placements. Uploading important problems, optimized solutions, and learning progress.
 
 ## 📚 Topics Covered
+### Linked List
+
+#### Insertion Operations
+- Insert At Front
+- Insert At Last
+- Insert At Kth Position
+- Insert Before Given Value
+
+#### Deletion Operations
+- Delete Head Node
+- Delete Last Node
+- Delete Node At Kth Position
+- Delete Node By Value
+
 
 ### String Problems
 - Count Substrings With ABC
