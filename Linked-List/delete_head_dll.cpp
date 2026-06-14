@@ -11,7 +11,7 @@ Approach:
 Time Complexity: O(1)
 Space Complexity: O(1)
 */
-
+ 
 // Code :-
 Node* deleteHead(Node* head) {
     if (head == nullptr) return nullptr;
