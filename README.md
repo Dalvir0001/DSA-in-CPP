@@ -45,8 +45,8 @@ My DSA journey in C++ for placements. Uploading important problems, optimized so
 
 ## 📈 Progress
 - Strings ✅
-- Arrays ⏳
-- Linked List ⏳
+- Arrays ✅
+- Linked List ✅
 - Stack & Queue ⏳
 - Trees ⏳
 - Graphs ⏳
