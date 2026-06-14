@@ -4,18 +4,24 @@ My DSA journey in C++ for placements. Uploading important problems, optimized so
 ## 📚 Topics Covered
 ### Linked List
 
-#### Insertion Operations
+#### Insertion Operations (Singly Linked List)
 - Insert At Front
 - Insert At Last
 - Insert At Kth Position
 - Insert Before Given Value
 
-#### Deletion Operations
+#### Deletion Operations (Singly Linked List)
 - Delete Head Node
 - Delete Last Node
 - Delete Node At Kth Position
 - Delete Node By Value
 
+#### Deletion Operations (Doubly Linked List)
+
+- Delete Head Node
+- Delete Tail Node
+- Delete Kth Node
+- Delete Given Node
 
 ### String Problems
 - Count Substrings With ABC
