@@ -23,6 +23,9 @@ My DSA journey in C++ for placements. Uploading important problems, optimized so
 - Delete Kth Node
 - Delete Given Node
 
+### Other Problems
+- Reverse Linked List (Iterative)
+
 ### String Problems
 - Count Substrings With ABC
 - Integer To Roman
