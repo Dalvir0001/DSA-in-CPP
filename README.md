@@ -16,6 +16,12 @@ My DSA journey in C++ for placements. Uploading important problems, optimized so
 - Delete Node At Kth Position
 - Delete Node By Value
 
+#### Insertion Operations (Doubly Linked List)
+- Insert before head
+- Insert before tail
+- Insert before kth position
+- Insert before a given node
+
 #### Deletion Operations (Doubly Linked List)
 
 - Delete Head Node
