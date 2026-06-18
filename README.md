@@ -31,6 +31,7 @@ My DSA journey in C++ for placements. Uploading important problems, optimized so
 
 ### Other Problems
 - Reverse Linked List (Iterative)
+- Reverse Linked List (Recursive)
 - Reverse a Doubly Linked list
 
 ### String Problems
