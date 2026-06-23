@@ -33,6 +33,7 @@ My DSA journey in C++ for placements. Uploading important problems, optimized so
 - Reverse Linked List (Iterative)
 - Reverse Linked List (Recursive)
 - Reverse a Doubly Linked list
+- Middle Node of linked list(Tortoise)
 
 ### String Problems
 - Count Substrings With ABC
