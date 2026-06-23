@@ -35,6 +35,7 @@ My DSA journey in C++ for placements. Uploading important problems, optimized so
 - Reverse a Doubly Linked list
 - Middle Node of linked list(Tortoise)
 - Linked List Cycle
+- Linked List Cycle II
 
 ### String Problems
 - Count Substrings With ABC
