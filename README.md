@@ -29,7 +29,7 @@ My DSA journey in C++ for placements. Uploading important problems, optimized so
 - Delete Kth Node
 - Delete Given Node
 
-### Other Problems
+### Linked List Problems
 - Reverse Linked List (Iterative)
 - Reverse Linked List (Recursive)
 - Reverse a Doubly Linked list
@@ -37,6 +37,7 @@ My DSA journey in C++ for placements. Uploading important problems, optimized so
 - Linked List Cycle
 - Linked List Cycle II
 - Length of loop in linked list
+- Palindrome Linked List
 
 ### String Problems
 - Count Substrings With ABC
