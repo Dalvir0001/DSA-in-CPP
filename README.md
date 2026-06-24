@@ -36,6 +36,7 @@ My DSA journey in C++ for placements. Uploading important problems, optimized so
 - Middle Node of linked list(Tortoise)
 - Linked List Cycle
 - Linked List Cycle II
+- Length of loop in linked list
 
 ### String Problems
 - Count Substrings With ABC
