@@ -38,6 +38,7 @@ My DSA journey in C++ for placements. Uploading important problems, optimized so
 - Linked List Cycle II
 - Length of loop in linked list
 - Palindrome Linked List
+- Odd Even Linked List
 
 ### String Problems
 - Count Substrings With ABC
