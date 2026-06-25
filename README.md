@@ -39,6 +39,8 @@ My DSA journey in C++ for placements. Uploading important problems, optimized so
 - Length of loop in linked list
 - Palindrome Linked List
 - Odd Even Linked List
+- Delete the Nth node from last of linked list
+- Delete the middle node of linked list
 
 ### String Problems
 - Count Substrings With ABC
