@@ -43,6 +43,7 @@ My DSA journey in C++ for placements. Uploading important problems, optimized so
 - Delete the middle node of linked list
 - Merge two sorted lists
 - Sort Linked List
+- Intersection of two Linked Lists
 
 ### String Problems
 - Count Substrings With ABC
