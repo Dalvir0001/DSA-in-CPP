@@ -55,6 +55,7 @@ My DSA journey in C++ for placements. Uploading important problems, optimized so
 - Sum of Beauty of All Substrings
 - Valid Number
 - Sort Characters By Frequency
+- Number of Sub Strings containing all three characters
 
 ## 🎯 Goals
 - Master Data Structures and Algorithms
