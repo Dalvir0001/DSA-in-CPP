@@ -45,6 +45,7 @@ My DSA journey in C++ for placements. Uploading important problems, optimized so
 - Sort Linked List
 - Intersection of two Linked Lists
 - Add One to Linked list
+- Add two numbers
 
 ### String Problems
 - Count Substrings With ABC
