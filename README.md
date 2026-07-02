@@ -47,6 +47,7 @@ My DSA journey in C++ for placements. Uploading important problems, optimized so
 - Add One to Linked list
 - Add two numbers
 - Delete all occurences of key in Doubly Linked List
+- Rotate List By k places
 
 ### String Problems
 - Count Substrings With ABC
