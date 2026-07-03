@@ -49,6 +49,7 @@ My DSA journey in C++ for placements. Uploading important problems, optimized so
 - Delete all occurences of key in Doubly Linked List
 - Rotate List By k places
 - Find pairs with given sum in Doubly Linked List
+- Reverse Nodes in K groups
 
 ### String Problems
 - Count Substrings With ABC
