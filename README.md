@@ -50,6 +50,7 @@ My DSA journey in C++ for placements. Uploading important problems, optimized so
 - Rotate List By k places
 - Find pairs with given sum in Doubly Linked List
 - Reverse Nodes in K groups
+- Split Linked List in Parts
 
 ### String Problems
 - Count Substrings With ABC
