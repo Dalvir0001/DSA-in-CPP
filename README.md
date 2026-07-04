@@ -51,6 +51,7 @@ My DSA journey in C++ for placements. Uploading important problems, optimized so
 - Find pairs with given sum in Doubly Linked List
 - Reverse Nodes in K groups
 - Split Linked List in Parts
+- Remove duplicates from sorted Doubly Linked List
 
 ### String Problems
 - Count Substrings With ABC
