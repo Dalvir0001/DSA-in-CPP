@@ -52,6 +52,7 @@ My DSA journey in C++ for placements. Uploading important problems, optimized so
 - Reverse Nodes in K groups
 - Split Linked List in Parts
 - Remove duplicates from sorted Doubly Linked List
+- Copy List With Random Pointers
 
 ### String Problems
 - Count Substrings With ABC
