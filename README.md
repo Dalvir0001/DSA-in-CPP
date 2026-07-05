@@ -53,6 +53,7 @@ My DSA journey in C++ for placements. Uploading important problems, optimized so
 - Split Linked List in Parts
 - Remove duplicates from sorted Doubly Linked List
 - Copy List With Random Pointers
+- Flatten a Linked List
 
 ### String Problems
 - Count Substrings With ABC
