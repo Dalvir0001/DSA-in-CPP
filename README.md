@@ -67,6 +67,9 @@ My DSA journey in C++ for placements. Uploading important problems, optimized so
 - Sort Characters By Frequency
 - Number of Sub Strings containing all three characters
 
+### Recursion
+- 
+
 ## 🎯 Goals
 - Master Data Structures and Algorithms
 - Improve Problem Solving Skills
@@ -79,7 +82,9 @@ My DSA journey in C++ for placements. Uploading important problems, optimized so
 ## 📈 Progress
 - Strings ✅
 - Arrays ✅
+- Binary Search ✅
 - Linked List ✅
+- Recursion ✅
 - Stack & Queue ⏳
 - Trees ⏳
 - Graphs ⏳
