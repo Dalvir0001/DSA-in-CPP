@@ -68,7 +68,8 @@ My DSA journey in C++ for placements. Uploading important problems, optimized so
 - Number of Sub Strings containing all three characters
 
 ### Recursion
-- 
+- Pow(x,n)
+- Count Good Numbers
 
 ## 🎯 Goals
 - Master Data Structures and Algorithms
