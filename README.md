@@ -70,6 +70,7 @@ My DSA journey in C++ for placements. Uploading important problems, optimized so
 ### Recursion
 - Pow(x,n)
 - Count Good Numbers
+- Sort a stack using recursion
 
 ## 🎯 Goals
 - Master Data Structures and Algorithms
