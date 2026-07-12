@@ -74,6 +74,7 @@ My DSA journey in C++ for placements. Uploading important problems, optimized so
 - Reverse a stack using recursion
 - Generate Paranthesis
 - Count Binary Strings
+- All Subsequences of a String
 
 ### Stack Problems
 - Valid Parenthesis
