@@ -75,6 +75,7 @@ My DSA journey in C++ for placements. Uploading important problems, optimized so
 - Generate Paranthesis
 - Count Binary Strings
 - All Subsequences of a String
+- Check if there exists a subsequence with sum K
 
 ### Stack Problems
 - Valid Parenthesis
