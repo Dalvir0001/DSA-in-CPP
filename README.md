@@ -78,6 +78,7 @@ My DSA journey in C++ for placements. Uploading important problems, optimized so
 - Check if there exists a subsequence with sum K
 - Combination Sum
 - Combination Sum 2
+- Subsets
 
 ### Stack Problems
 - Valid Parenthesis
