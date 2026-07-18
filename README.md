@@ -84,6 +84,7 @@ My DSA journey in C++ for placements. Uploading important problems, optimized so
 - Letter Combination of a phone number 
 - Palindrome Partitioning
 - Word Search
+- N Queens
 
 ### Stack Problems
 - Valid Parenthesis
