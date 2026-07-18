@@ -83,6 +83,7 @@ My DSA journey in C++ for placements. Uploading important problems, optimized so
 - Combination Sum 3
 - Letter Combination of a phone number 
 - Palindrome Partitioning
+- Word Search
 
 ### Stack Problems
 - Valid Parenthesis
