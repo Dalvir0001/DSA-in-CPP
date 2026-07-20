@@ -87,7 +87,6 @@ My DSA journey in C++ for placements. Uploading important problems, optimized so
 - N Queens
 - Rat in a Maze
 
-
 ### Stack Problems
 - Valid Parenthesis
 - Smallest Subsequence of Distinct Characters
