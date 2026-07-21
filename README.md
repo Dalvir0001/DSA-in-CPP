@@ -86,6 +86,7 @@ My DSA journey in C++ for placements. Uploading important problems, optimized so
 - Word Search
 - N Queens
 - Rat in a Maze
+- Expression Add operators
 
 ### Stack Problems
 - Valid Parenthesis
