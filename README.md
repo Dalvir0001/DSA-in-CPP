@@ -89,6 +89,7 @@ My DSA journey in C++ for placements. Uploading important problems, optimized so
 - Expression Add operators
 - Word Break
 - M-Coloring Problem
+- Sudoku Solver
 
 ### Stack Problems
 - Valid Parenthesis
