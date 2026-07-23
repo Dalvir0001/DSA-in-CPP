@@ -93,6 +93,7 @@ My DSA journey in C++ for placements. Uploading important problems, optimized so
 
 ### Stack Problems
 - Implement Stack using Queue
+- Implement Queue using Stacks
 - Valid Parenthesis
 - Smallest Subsequence of Distinct Characters
 
