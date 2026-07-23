@@ -91,7 +91,7 @@ My DSA journey in C++ for placements. Uploading important problems, optimized so
 - M-Coloring Problem
 - Sudoku Solver
 
-### Stack Problems
+### Stacks-and-Queues Problems
 - Implement Stack using Queue
 - Implement Queue using Stacks
 - Valid Parenthesis
