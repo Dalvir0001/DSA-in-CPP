@@ -92,6 +92,7 @@ My DSA journey in C++ for placements. Uploading important problems, optimized so
 - Sudoku Solver
 
 ### Stack Problems
+- Implement Stack using Queue
 - Valid Parenthesis
 - Smallest Subsequence of Distinct Characters
 
