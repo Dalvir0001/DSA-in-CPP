@@ -98,6 +98,7 @@ My DSA journey in C++ for placements. Uploading important problems, optimized so
 - Smallest Subsequence of Distinct Characters
 - Min Stack
 - Infix to Postfix
+- Infix to Prefix
 
 ## 🎯 Goals
 - Master Data Structures and Algorithms
