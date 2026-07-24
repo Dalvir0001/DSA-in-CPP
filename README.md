@@ -96,6 +96,7 @@ My DSA journey in C++ for placements. Uploading important problems, optimized so
 - Implement Queue using Stacks
 - Valid Parenthesis
 - Smallest Subsequence of Distinct Characters
+- Min Stack
 
 ## 🎯 Goals
 - Master Data Structures and Algorithms
