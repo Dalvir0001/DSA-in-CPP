@@ -100,6 +100,7 @@ My DSA journey in C++ for placements. Uploading important problems, optimized so
 - Infix to Postfix
 - Infix to Prefix
 - Postfix to Infix
+- Prefix to Infix
 
 ## 🎯 Goals
 - Master Data Structures and Algorithms
