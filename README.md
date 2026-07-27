@@ -123,7 +123,7 @@ My DSA journey in C++ for placements. Uploading important problems, optimized so
 - Binary Search ✅
 - Linked List ✅
 - Recursion ✅
-- Stack & Queue ⏳
+- Stack & Queue ✅
 - Trees ⏳
 - Graphs ⏳
 - Dynamic Programming ⏳
