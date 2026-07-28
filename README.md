@@ -109,6 +109,7 @@ My DSA journey in C++ for placements. Uploading important problems, optimized so
 - Trapping Rain Water
 - Sum of Subarray Minimums
 - Asteroid Collision
+- Remove K digits
 
 ## 🎯 Goals
 - Master Data Structures and Algorithms
