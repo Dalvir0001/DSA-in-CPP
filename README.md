@@ -108,6 +108,7 @@ My DSA journey in C++ for placements. Uploading important problems, optimized so
 - Next Smaller Element
 - Trapping Rain Water
 - Sum of Subarray Minimums
+- Asteroid Collision
 
 ## 🎯 Goals
 - Master Data Structures and Algorithms
