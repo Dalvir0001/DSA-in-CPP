@@ -110,6 +110,7 @@ My DSA journey in C++ for placements. Uploading important problems, optimized so
 - Sum of Subarray Minimums
 - Asteroid Collision
 - Remove K digits
+- Largest Rectangle in Histogram
 
 ## 🎯 Goals
 - Master Data Structures and Algorithms
