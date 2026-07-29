@@ -111,6 +111,7 @@ My DSA journey in C++ for placements. Uploading important problems, optimized so
 - Asteroid Collision
 - Remove K digits
 - Largest Rectangle in Histogram
+- Maximal Rectangle
 
 ## 🎯 Goals
 - Master Data Structures and Algorithms
