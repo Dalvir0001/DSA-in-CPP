@@ -114,6 +114,7 @@ My DSA journey in C++ for placements. Uploading important problems, optimized so
 - Maximal Rectangle
 - Sliding Window Maximum
 - Onile Stock Span
+- The Celebrity Problem
 
 ## 🎯 Goals
 - Master Data Structures and Algorithms
