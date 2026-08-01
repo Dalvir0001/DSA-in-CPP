@@ -115,6 +115,7 @@ My DSA journey in C++ for placements. Uploading important problems, optimized so
 - Sliding Window Maximum
 - Onile Stock Span
 - The Celebrity Problem
+- LRU Cache
 
 ## 🎯 Goals
 - Master Data Structures and Algorithms
