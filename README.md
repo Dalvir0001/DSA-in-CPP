@@ -117,6 +117,7 @@ My DSA journey in C++ for placements. Uploading important problems, optimized so
 - The Celebrity Problem
 - LRU Cache
 - LFU Cache
+- Sum of Subarray Ranges
 
 ## 🎯 Goals
 - Master Data Structures and Algorithms
