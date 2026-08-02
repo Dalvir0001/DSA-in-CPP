@@ -119,6 +119,9 @@ My DSA journey in C++ for placements. Uploading important problems, optimized so
 - LFU Cache
 - Sum of Subarray Ranges
 
+### Sliding Window
+- Maximum Points You Can Obtain from Cards
+
 ## 🎯 Goals
 - Master Data Structures and Algorithms
 - Improve Problem Solving Skills
@@ -135,6 +138,7 @@ My DSA journey in C++ for placements. Uploading important problems, optimized so
 - Linked List ✅
 - Recursion ✅
 - Stack & Queue ✅
+- Sliding Window ✅
 - Trees ⏳
 - Graphs ⏳
 - Dynamic Programming ⏳
