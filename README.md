@@ -122,6 +122,7 @@ My DSA journey in C++ for placements. Uploading important problems, optimized so
 ### Sliding Window
 - Maximum Points You Can Obtain from Cards
 - Longest Substring Without Repeating Characters
+- Max Consecutive Ones III
 
 ## 🎯 Goals
 - Master Data Structures and Algorithms
