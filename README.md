@@ -124,6 +124,7 @@ My DSA journey in C++ for placements. Uploading important problems, optimized so
 - Longest Substring Without Repeating Characters
 - Max Consecutive Ones III
 - Fruit Into Baskets
+- Longest Repeating Character Replacement
 
 ## 🎯 Goals
 - Master Data Structures and Algorithms
