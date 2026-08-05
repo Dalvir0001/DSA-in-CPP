@@ -128,6 +128,7 @@ My DSA journey in C++ for placements. Uploading important problems, optimized so
 - Longest Substring With K distinct characters
 - Number of Substrings Containing All Three Characters
 - Binary Subarrays With Sum
+- Subarrays with Sum in Range
 
 ## 🎯 Goals
 - Master Data Structures and Algorithms
