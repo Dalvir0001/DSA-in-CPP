@@ -127,6 +127,7 @@ My DSA journey in C++ for placements. Uploading important problems, optimized so
 - Longest Repeating Character Replacement
 - Longest Substring With K distinct characters
 - Number of Substrings Containing All Three Characters
+- Binary Subarrays With Sum
 
 ## 🎯 Goals
 - Master Data Structures and Algorithms
