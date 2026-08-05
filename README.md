@@ -126,6 +126,7 @@ My DSA journey in C++ for placements. Uploading important problems, optimized so
 - Fruit Into Baskets
 - Longest Repeating Character Replacement
 - Longest Substring With K distinct characters
+- Number of Substrings Containing All Three Characters
 
 ## 🎯 Goals
 - Master Data Structures and Algorithms
