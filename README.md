@@ -130,6 +130,7 @@ My DSA journey in C++ for placements. Uploading important problems, optimized so
 - Binary Subarrays With Sum
 - Subarrays with Sum in Range
 - Count Number of Nice Subarrays
+- Subarrays with K Different Integers
 
 ## 🎯 Goals
 - Master Data Structures and Algorithms
