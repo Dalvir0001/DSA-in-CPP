@@ -129,6 +129,7 @@ My DSA journey in C++ for placements. Uploading important problems, optimized so
 - Number of Substrings Containing All Three Characters
 - Binary Subarrays With Sum
 - Subarrays with Sum in Range
+- Count Number of Nice Subarrays
 
 ## 🎯 Goals
 - Master Data Structures and Algorithms
