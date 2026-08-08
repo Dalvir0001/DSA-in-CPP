@@ -139,6 +139,7 @@ My DSA journey in C++ for placements. Uploading important problems, optimized so
 - Inorder
 - Preorder
 - Postorder
+- Level Order Traversal
 
 ## 🎯 Goals
 - Master Data Structures and Algorithms
