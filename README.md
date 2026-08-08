@@ -151,7 +151,7 @@ My DSA journey in C++ for placements. Uploading important problems, optimized so
 - Recursion ✅
 - Stack & Queue ✅
 - Sliding Window ✅
-- Trees ⏳
+- Trees ✅
 - Graphs ⏳
 - Dynamic Programming ⏳
 
