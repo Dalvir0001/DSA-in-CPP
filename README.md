@@ -134,6 +134,12 @@ My DSA journey in C++ for placements. Uploading important problems, optimized so
 - Minimum Window Substring
 - Minimum Window Subsequence
 
+### Binary Trees
+- Creating Binary Tree
+- Inorder
+- Preorder
+- Postorder
+
 ## 🎯 Goals
 - Master Data Structures and Algorithms
 - Improve Problem Solving Skills
@@ -151,7 +157,7 @@ My DSA journey in C++ for placements. Uploading important problems, optimized so
 - Recursion ✅
 - Stack & Queue ✅
 - Sliding Window ✅
-- Trees ✅
+- Binary Trees ✅
 - Graphs ⏳
 - Dynamic Programming ⏳
 
