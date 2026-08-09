@@ -144,6 +144,9 @@ My DSA journey in C++ for placements. Uploading important problems, optimized so
 - Preorder Iterative
 - Postorder Iterative Using Two Stacks
 - Postorder Iterative Using One Stack
+- Maximum Depth of Binary Tree
+- Balanced binary tree
+- Diameter of Binary Tree
 
 ## 🎯 Goals
 - Master Data Structures and Algorithms
