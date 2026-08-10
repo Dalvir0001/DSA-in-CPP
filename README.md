@@ -147,6 +147,9 @@ My DSA journey in C++ for placements. Uploading important problems, optimized so
 - Maximum Depth of Binary Tree
 - Balanced binary tree
 - Diameter of Binary Tree
+- Maximum path sum
+- Check if two trees are identical or not
+- Zig Zag or Spiral Traversal
 
 ## 🎯 Goals
 - Master Data Structures and Algorithms
