@@ -150,6 +150,8 @@ My DSA journey in C++ for placements. Uploading important problems, optimized so
 - Maximum path sum
 - Check if two trees are identical or not
 - Zig Zag or Spiral Traversal
+- Boundary Traversal
+- Vertical Order Traversal
 
 ## 🎯 Goals
 - Master Data Structures and Algorithms
