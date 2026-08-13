@@ -154,6 +154,9 @@ My DSA journey in C++ for placements. Uploading important problems, optimized so
 - Vertical Order Traversal
 - Top View of Binary Tree
 - Bottom View of Binary Tree
+- Right Side View Of Binary Tree
+- Symmetric Binary Tree
+- Root To Leaf Paths
 
 ## 🎯 Goals
 - Master Data Structures and Algorithms
