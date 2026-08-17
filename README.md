@@ -159,6 +159,7 @@ My DSA journey in C++ for placements. Uploading important problems, optimized so
 - Root To Leaf Paths
 - Lowest Common Ancestor of Binary Tree
 - Maximum Width of Binary Tree
+- All Nodes Distance K in Binary Tree
 
 ## 🎯 Goals
 - Master Data Structures and Algorithms
