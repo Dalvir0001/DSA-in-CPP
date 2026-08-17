@@ -133,7 +133,6 @@ My DSA journey in C++ for placements. Uploading important problems, optimized so
 - Subarrays with K Different Integers
 - Minimum Window Substring
 - Minimum Window Subsequence
-- Count Complete Tree Nodes
 
 ### Binary Trees
 - Creating Binary Tree
@@ -161,6 +160,7 @@ My DSA journey in C++ for placements. Uploading important problems, optimized so
 - Lowest Common Ancestor of Binary Tree
 - Maximum Width of Binary Tree
 - All Nodes Distance K in Binary Tree
+- Count Complete Tree Nodes
 
 ## 🎯 Goals
 - Master Data Structures and Algorithms
