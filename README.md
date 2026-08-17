@@ -133,6 +133,7 @@ My DSA journey in C++ for placements. Uploading important problems, optimized so
 - Subarrays with K Different Integers
 - Minimum Window Substring
 - Minimum Window Subsequence
+- Count Complete Tree Nodes
 
 ### Binary Trees
 - Creating Binary Tree
