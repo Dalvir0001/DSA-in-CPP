@@ -161,6 +161,8 @@ My DSA journey in C++ for placements. Uploading important problems, optimized so
 - Maximum Width of Binary Tree
 - All Nodes Distance K in Binary Tree
 - Count Complete Tree Nodes
+- Burning Tree
+- Construct Binary Tree From Preorder and Inorder Traversal
 
 ## 🎯 Goals
 - Master Data Structures and Algorithms
