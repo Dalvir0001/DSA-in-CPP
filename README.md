@@ -164,6 +164,7 @@ My DSA journey in C++ for placements. Uploading important problems, optimized so
 - Burning Tree
 - Construct Binary Tree From Preorder and Inorder Traversal
 - Construct Binary Tree From Postorder and Inorder Traversal
+- Serialize and Deserialize Binary Tree
 
 ## 🎯 Goals
 - Master Data Structures and Algorithms
