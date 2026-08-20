@@ -167,6 +167,7 @@ My DSA journey in C++ for placements. Uploading important problems, optimized so
 - Serialize and Deserialize Binary Tree
 - Morris Inorder Traversal
 - Morris Preorder Traversal
+- Flatten Binary Tree to Linked List
 
 ## 🎯 Goals
 - Master Data Structures and Algorithms
