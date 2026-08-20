@@ -165,6 +165,8 @@ My DSA journey in C++ for placements. Uploading important problems, optimized so
 - Construct Binary Tree From Preorder and Inorder Traversal
 - Construct Binary Tree From Postorder and Inorder Traversal
 - Serialize and Deserialize Binary Tree
+- Morris Inorder Traversal
+- Morris Preorder Traversal
 
 ## 🎯 Goals
 - Master Data Structures and Algorithms
