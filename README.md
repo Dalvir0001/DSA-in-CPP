@@ -169,6 +169,9 @@ My DSA journey in C++ for placements. Uploading important problems, optimized so
 - Morris Preorder Traversal
 - Flatten Binary Tree to Linked List
 
+### Binary Search Trees
+- Search in a Binary Search Tree
+
 ## 🎯 Goals
 - Master Data Structures and Algorithms
 - Improve Problem Solving Skills
@@ -187,6 +190,7 @@ My DSA journey in C++ for placements. Uploading important problems, optimized so
 - Stack & Queue ✅
 - Sliding Window ✅
 - Binary Trees ✅
+- Binary Search Trees ✅
 - Graphs ⏳
 - Dynamic Programming ⏳
 
