@@ -171,6 +171,8 @@ My DSA journey in C++ for placements. Uploading important problems, optimized so
 
 ### Binary Search Trees
 - Search in a Binary Search Tree
+- Ceil in Binary Search Tree
+- Floor in Binary Search Tree
 
 ## 🎯 Goals
 - Master Data Structures and Algorithms
