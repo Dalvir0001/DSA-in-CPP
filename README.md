@@ -173,6 +173,8 @@ My DSA journey in C++ for placements. Uploading important problems, optimized so
 - Search in a Binary Search Tree
 - Ceil in Binary Search Tree
 - Floor in Binary Search Tree
+- Insert a given node in BST
+- Delete a node in BST
 
 ## 🎯 Goals
 - Master Data Structures and Algorithms
