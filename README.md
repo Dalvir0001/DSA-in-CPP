@@ -177,6 +177,7 @@ My DSA journey in C++ for placements. Uploading important problems, optimized so
 - Delete a node in BST
 - Kth Smallest Element in a BST
 - Kth Largest Element in a BST
+- Validate Binary Search Tree
 
 ## 🎯 Goals
 - Master Data Structures and Algorithms
