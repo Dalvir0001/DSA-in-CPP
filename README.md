@@ -178,6 +178,8 @@ My DSA journey in C++ for placements. Uploading important problems, optimized so
 - Kth Smallest Element in a BST
 - Kth Largest Element in a BST
 - Validate Binary Search Tree
+- Lowest Common Ancestor of a Binary Search Tree
+- Construct Binary Search Tree from Preorder Traversal
 
 ## 🎯 Goals
 - Master Data Structures and Algorithms
