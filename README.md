@@ -181,7 +181,7 @@ My DSA journey in C++ for placements. Uploading important problems, optimized so
 - Lowest Common Ancestor of a Binary Search Tree
 - Construct Binary Search Tree from Preorder Traversal
 - Inorder Successor in BST
-- Merge 2 BST's
+- Binary Search Tree Iterator
 
 ## 🎯 Goals
 - Master Data Structures and Algorithms
