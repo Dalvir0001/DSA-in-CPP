@@ -182,6 +182,8 @@ My DSA journey in C++ for placements. Uploading important problems, optimized so
 - Construct Binary Search Tree from Preorder Traversal
 - Inorder Successor in BST
 - Binary Search Tree Iterator
+- Two Sum In BST | Check if there exists a pair with Sum K
+- Correct BST with two nodes swapped
 
 ## 🎯 Goals
 - Master Data Structures and Algorithms
