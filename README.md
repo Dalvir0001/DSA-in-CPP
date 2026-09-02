@@ -184,6 +184,7 @@ My DSA journey in C++ for placements. Uploading important problems, optimized so
 - Binary Search Tree Iterator
 - Two Sum In BST | Check if there exists a pair with Sum K
 - Correct BST with two nodes swapped
+- Maximum Sum BST in Binary Tree
 
 ## 🎯 Goals
 - Master Data Structures and Algorithms
