@@ -187,6 +187,8 @@ My DSA journey in C++ for placements. Uploading important problems, optimized so
 - Maximum Sum BST in Binary Tree
 
 ### Graphs
+- Adjacency Matrix
+- Adjacency List
 
 ## 🎯 Goals
 - Master Data Structures and Algorithms
