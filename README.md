@@ -186,6 +186,8 @@ My DSA journey in C++ for placements. Uploading important problems, optimized so
 - Correct BST with two nodes swapped
 - Maximum Sum BST in Binary Tree
 
+### Graphs
+
 ## 🎯 Goals
 - Master Data Structures and Algorithms
 - Improve Problem Solving Skills
@@ -205,7 +207,7 @@ My DSA journey in C++ for placements. Uploading important problems, optimized so
 - Sliding Window ✅
 - Binary Trees ✅
 - Binary Search Trees ✅
-- Graphs ⏳
+- Graphs ✅
 - Dynamic Programming ⏳
 
 ---
