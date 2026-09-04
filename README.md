@@ -189,6 +189,7 @@ My DSA journey in C++ for placements. Uploading important problems, optimized so
 ### Graphs
 - Adjacency Matrix
 - Adjacency List
+- BFS Graph Traversal
 
 ## 🎯 Goals
 - Master Data Structures and Algorithms
