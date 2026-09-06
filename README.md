@@ -192,6 +192,8 @@ My DSA journey in C++ for placements. Uploading important problems, optimized so
 - BFS Graph Traversal
 - DFS Graph Traversal
 - Number of Provinces
+- Count Islands
+- Flood Fill
 
 ## 🎯 Goals
 - Master Data Structures and Algorithms
