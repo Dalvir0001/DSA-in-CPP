@@ -197,6 +197,7 @@ My DSA journey in C++ for placements. Uploading important problems, optimized so
 - Rotten Oranges
 - Undirected Graph Cycle bfs
 - Undirected Graph Cycle dfs
+- 01 Matrix
 
 ## 🎯 Goals
 - Master Data Structures and Algorithms
