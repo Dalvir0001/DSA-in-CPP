@@ -195,7 +195,8 @@ My DSA journey in C++ for placements. Uploading important problems, optimized so
 - Count Islands
 - Flood Fill
 - Rotten Oranges
-- Undirected Graph Cycle
+- Undirected Graph Cycle bfs
+- Undirected Graph Cycle dfs
 
 ## 🎯 Goals
 - Master Data Structures and Algorithms
