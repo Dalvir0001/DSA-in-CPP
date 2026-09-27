@@ -118,6 +118,7 @@ My DSA journey in C++ for placements. Uploading important problems, optimized so
 - LRU Cache
 - LFU Cache
 - Sum of Subarray Ranges
+- Reverse Substrings Between Each Pair of Parentheses
 
 ### Sliding Window
 - Maximum Points You Can Obtain from Cards
