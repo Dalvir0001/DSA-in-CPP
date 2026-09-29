@@ -201,6 +201,7 @@ My DSA journey in C++ for placements. Uploading important problems, optimized so
 - 01 Matrix
 - Surrounded Regions
 - Number of Distinct Islands
+- Number of enclaves
 
 ## 🎯 Goals
 - Master Data Structures and Algorithms
