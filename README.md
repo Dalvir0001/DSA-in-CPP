@@ -200,8 +200,8 @@ My DSA journey in C++ for placements. Uploading important problems, optimized so
 - Undirected Graph Cycle dfs
 - 01 Matrix
 - Surrounded Regions
-- Number of Distinct Islands
 - Number of enclaves
+- Number of Distinct Islands
 
 ## 🎯 Goals
 - Master Data Structures and Algorithms
