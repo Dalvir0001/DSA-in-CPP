@@ -202,6 +202,7 @@ My DSA journey in C++ for placements. Uploading important problems, optimized so
 - Surrounded Regions
 - Number of enclaves
 - Number of Distinct Islands
+- Is Graph Bipartite?
 
 ## 🎯 Goals
 - Master Data Structures and Algorithms
