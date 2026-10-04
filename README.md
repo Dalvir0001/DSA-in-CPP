@@ -204,6 +204,7 @@ My DSA journey in C++ for placements. Uploading important problems, optimized so
 - Number of Distinct Islands
 - Is Graph Bipartite?
 - Directed Graph Cycle
+- Topological Sort
 
 ## 🎯 Goals
 - Master Data Structures and Algorithms
