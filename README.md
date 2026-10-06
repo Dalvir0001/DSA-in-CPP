@@ -208,6 +208,7 @@ My DSA journey in C++ for placements. Uploading important problems, optimized so
 - Topological Sort(Kahn's Algorithm)
 - Course Schedule
 - Course Schedule II
+- Find Eventual Safe States
 
 ## 🎯 Goals
 - Master Data Structures and Algorithms
